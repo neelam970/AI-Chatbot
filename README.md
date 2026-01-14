@@ -19,4 +19,16 @@ It provides an interactive GUI where users can chat with the bot in different mo
 - File Handling
 
 ## How It Works
-- Tkinter creates the
+- Tkinter creates the GUI (window, chat area, input box, buttons, dropdown).
+- When the user sends a message, `send_message()` is triggered.
+- Based on the selected mode, the message is processed by:
+  - `responsetochatbot()` – Normal Chat
+  - `motivation_reply()` – Motivation
+  - `study_help_reply()` – Study Help
+- The bot reply is displayed and saved in a file.
+
+## How to Run
+1. Make sure Python is installed.
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/neelam970/AI-Chatbot.git
