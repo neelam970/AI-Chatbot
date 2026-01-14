@@ -1,0 +1,93 @@
+User: what is your name
+Bot: I am your AI Chatbot.
+
+User: what is the colour of rose
+Bot: red
+
+User: who are you
+Bot: I am an AI smart chatbot created in Python.
+
+User: what is a python
+Bot: Okay, I will skip this.
+
+User: no
+Bot: Okay, I will skip this.
+
+User: ehy
+Bot: Okay, I will skip this.
+
+User: & C:/Users/kneel/AppData/Local/Microsoft/WindowsApps/python3.13.exe c:/Chatbot_Project/response.py
+Bot: Okay, I will skip this.
+
+User: what
+Bot: yes
+
+User: monday
+Bot: Okay, I will skip this.
+
+User: & C:/Users/kneel/AppData/Local/Microsoft/WindowsApps/python3.13.exe c:/Chatbot_Project/response.py
+Bot: Okay, I will skip this.
+
+User: & C:/Users/kneel/AppData/Local/Microsoft/WindowsApps/python3.13.exe c:/Chatbot_Project/response.py
+Bot: Okay, I will skip this.
+
+User: who are you
+Bot: I am an AI smart chatbot created in Python.
+
+User: what is the colour of rose
+Bot: red
+
+User: what is yor name
+Bot: Okay, I will skip this.
+
+User: & C:/Users/kneel/AppData/Local/Microsoft/WindowsApps/python3.13.exe c:/Chatbot_Project/response.py
+Bot: Okay, I will skip this.
+
+User: who 
+Bot: Okay, I will skip this.
+
+User: hello
+Bot: Hello! How can I help you?
+
+User: i am fine
+Bot: Great to hear that!
+
+User: what is your name
+Bot: I am your AI Chatbot.
+
+User: who are you
+Bot: I am an AI smart chatbot created in Python.
+
+User: tell me about python
+Bot: Python is a beginner-friendly programming language.
+
+User:  tell me about python
+Bot: Python is a beginner-friendly programming language.
+
+User: what is the colour of rose
+Bot: red
+
+User: which programming language is much easier?
+Bot: Okay, I will skip this.
+
+User:  which programming language is much easier?
+Bot: python 
+
+User: which language is difficult
+Bot: Okay, I will skip this.
+
+User: hello
+Bot: Hello! How can I help you?
+
+User: who are you
+Bot: I am an AI smart chatbot created in Python.
+
+User: what is the colour of rose
+Bot: red
+
+User: which language is much easier?
+Bot: Okay, I will skip this.
+
+User: & C:/Users/kneel/AppData/Local/Microsoft/WindowsApps/python3.13.exe c:/Chatbot_Project/main.py
+Bot: Okay, I will skip this.
+

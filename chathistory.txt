@@ -1,0 +1,268 @@
+User: hello
+Bot: Believe in yourself. You are stronger than you think.
+
+User: what is your name
+Bot: I am your AI Chatbot.
+
+User: tell me
+Bot: Okay, I will skip this.
+
+User: what is your name
+Bot: I am your AI Chatbot.
+
+User: what is the colour of rose
+Bot: red
+
+User: which programming language is much easier?
+Bot: python
+
+User: who are u
+Bot: Okay, I will skip this.
+
+User: who are you
+Bot: I am an AI smart chatbot created in Python.
+
+User: who  developed you?
+User: who developed you?
+Bot: I am proudly created by Neelam Kumari
+
+User: tell me somethingmotivational
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: who developed you?
+Bot: I am proudly created by Neelam Kumari
+
+User: who are you?
+Bot: An AI smart chatbot
+
+User: what is your name
+Bot: I am your AI Chatbot.
+
+User: what is the colour of rose?
+Bot: red
+
+User: tell me about python ?
+Bot: python is a biggner friendly programming language
+
+User: tell me features of python
+Bot: Easy to Learn & Use
+
+Interpreted Language
+
+Dynamically Typed
+
+Free & Open Source
+
+Portable
+
+Object-Oriented
+
+User: tell me something motivational
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+Bot: Don't give up. Your future is bright.
+
+User: guide me
+Bot: Practice coding daily, even for 30 minutes.
+
+User: tell me something motivational
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+User: thanks
+User: tell
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+Bot: Don't give up. Your future is bright. 🌟
+
+User: thankyou
+Bot: It's my pleasure! 😊
+
+User: tell
+Bot: Practice coding daily, even for 30 minutes.
+
+User: who developed you?
+Bot: I am proudly created by Neelam Kumari
+
+User: what is your name
+Bot: I am your AI Chatbot.
+
+User: tell me about python
+Bot: Python is a beginner-friendly programming language.
+
+User: what is the colour of rose
+Bot: red
+
+User: tell me something motivational
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+Bot: Dream it. Wish it. Do it! 🚀
+
+User: aww thankyou
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+Bot: Don't give up. Your future is bright. 🌟
+
+User: thank you
+Bot: It's my pleasure! 😊
+
+User: guide me about my study
+Bot: Take short breaks while studying to improve focus.
+
+User: who developed you?
+Bot: I am proudly created by Neelam Kumari
+
+User: what is your name
+Bot: I am your AI Chatbot.
+
+User: what is the colour of lotus
+Bot: Okay, I will skip this.
+
+User: what is the colour of lotus
+Bot: pink
+
+User: tell me somthing motivational
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+Bot: Every day is a new chance to grow. 💪
+
+User: thank you
+Bot: It's my pleasure! 😊
+
+User: guide me
+Bot: Break big topics into small parts.
+
+User: or
+Bot: Take short breaks while studying to improve focus.
+
+User: or
+Bot: Practice coding daily, even for 30 minutes.
+
+User: who developed you?
+Bot: I am proudly created by Neelam Kumari
+
+User: what is your name
+Bot: I am your AI Chatbot.
+
+User: who are you
+Bot: I am an AI smart chatbot created in Python.
+
+User: tell about python
+Bot: python is programming language.
+
+User: what is the colour of rose
+Bot: red
+
+User: what is the colour of lotus
+Bot: pink
+
+User: tell me features of python
+Bot: Easy to Learn & Use
+
+User: tell me something motivational
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+Bot: Dream it. Wish it. Do it! 🚀
+
+User: thank you
+Bot: It's my pleasure! 😊
+
+User: guide me
+Bot: Make a daily study schedule and follow it.
+
+User: or
+Bot: Take short breaks while studying to improve focus.
+
+User: or
+Bot: Practice coding daily, even for 30 minutes.
+
+User: thank you
+Bot: Take short breaks while studying to improve focus.
+
+User: who developed you?
+Bot: I am proudly created by Neelam Kumari
+
+User: what is your name
+Bot: I am your AI Chatbot.
+
+User: who are you
+Bot: I am an AI smart chatbot created in Python.
+
+User: what is the colour of lotus
+Bot: pink
+
+User: what is india 's national bird?
+Bot: peacock
+
+User: tell me something motivational
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+Bot: Believe in yourself. You are stronger than you think. ✨
+
+User: thank you
+Bot: It's my pleasure! 😊
+
+User: guide me
+Bot: Take short breaks while studying to improve focus.
+
+User: or
+Bot: Practice coding daily, even for 30 minutes.
+
+User: who developed you?
+Bot: I am proudly created by Neelam Kumari
+
+User: what is your name
+Bot: I am your AI Chatbot.
+
+User: who are you
+Bot: I am an AI smart chatbot created in Python.
+
+User: tell about python
+Bot: python is programming language.
+
+User: what is the colour of lotus
+Bot: pink
+
+User: what is ou national bird
+Bot: peacock
+
+User: tell me about c language
+Bot: Okay, I will skip this.
+
+User: tell me something motivational
+Bot: Do you want a motivational quote? (Yes/No)
+
+User: yes
+Bot: Every day is a new chance to grow. 💪
+
+User: thank you
+Bot: It's my pleasure! 😊
+
+User: guide me
+Bot: Break big topics into small parts.
+
+User: or
+Bot: Practice coding daily, even for 30 minutes.
+

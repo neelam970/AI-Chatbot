@@ -1,0 +1,22 @@
+what is the colour of rose::red
+what::yes
+ which programming language is much easier?::python 
+who developed you?::I am proudly created by Neelam Kumari
+who are you?::An AI smart chatbot
+what is the colour of rose?::red
+tell me about python ?::python is a biggner friendly programming language
+tell me features of python::Easy to Learn & Use
+
+Interpreted Language
+
+Dynamically Typed
+
+Free & Open Source
+
+Portable
+
+Object-Oriented
+what is the colour of lotus::pink
+tell about python::python is programming language.
+what is india 's national bird?::peacock
+what is ou national bird::peacock
